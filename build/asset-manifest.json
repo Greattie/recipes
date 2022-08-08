@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Greattie/recipes/tree/main/deliciouss/static/css/main.35f2edfe.css",
+    "main.js": "/Greattie/recipes/tree/main/deliciouss/static/js/main.3d7977ac.js",
+    "index.html": "/Greattie/recipes/tree/main/deliciouss/index.html",
+    "main.35f2edfe.css.map": "/Greattie/recipes/tree/main/deliciouss/static/css/main.35f2edfe.css.map",
+    "main.3d7977ac.js.map": "/Greattie/recipes/tree/main/deliciouss/static/js/main.3d7977ac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35f2edfe.css",
+    "static/js/main.3d7977ac.js"
+  ]
+}
